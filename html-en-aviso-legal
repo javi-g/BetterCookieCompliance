@@ -1,0 +1,53 @@
+<h2>Cookies</h2>
+
+El acceso a este puede implicar la utilización de cookies. Las cookies son pequeñas cantidades de información que se almacenan en el navegador utilizado por cada usuario para que el servidor recuerde cierta información que posteriormente pueda utilizar. Esta información permite identificarle a usted como un usuario concreto y permite guardar sus preferencias personales, así como información técnica como puedan ser visitas o páginas concretas que visite.
+Aquellos usuarios que no deseen recibir cookies o quieran ser informados antes de que se almacenen en su ordenador, pueden configurar su navegador a tal efecto.
+
+La mayor parte de los navegadores de hoy en día permiten la gestión de las cookies de 3 formas diferentes:
+<ol>
+	<li>Las cookies no se aceptan nunca.</li>
+	<li>El navegador pregunta al usuario si se debe aceptar cada cookie.</li>
+	<li>Las cookies se aceptan siempre.</li>
+</ol>
+El navegador también puede incluir la posibilidad de especificar mejor qué cookies tienen que ser aceptadas y cuáles no. En concreto, el usuario puede normalmente aceptar alguna de las siguientes opciones: rechazar las cookies de determinados dominios; rechazar las cookies de terceros; aceptar cookies como no persistentes (se eliminan cuando el navegador se cierra); permitir al servidor crear cookies para un dominio diferente. Además, los navegadores pueden también permitir a los usuarios ver y borrar cookies individualmente.
+
+Google, como proveedor asociado, utiliza cookies para publicar anuncios en su sitio. Los usuarios pueden inhabilitar el uso de la <a href="https://www.google.com/policies/technologies/ads/">cookie de DART</a> a través del anuncio de Google y accediendo a la <a href="http://www.google.com/policies/technologies/ads/">política de privacidad de la red de contenido</a>.
+
+Dispone de más información sobre las Cookies en: http://es.wikipedia.org/wiki/Cookie
+
+Lista cookies:
+<table class="tg" style="height: 225px;" width="755">
+<tbody>
+<tr>
+<th class="tg-8xqh">Cookie</th>
+<th class="tg-8xqh">Nombre</th>
+<th class="tg-8xqh">Propósito</th>
+<th class="tg-8xqh">Más información</th>
+</tr>
+<tr>
+<td class="tg-031e">Web</td>
+<td class="tg-031e">PHPSESSID</td>
+<td class="tg-031e">Cookies técnicas. Permite al usuario visualizar la página e interactuar con ella.</td>
+<td class="tg-031e"><a href="/aviso-legal/">Aviso Legal y Política de Privacidad</a></td>
+</tr>
+<tr>
+<td class="tg-031e"> Google Analytics</td>
+<td class="tg-031e">__utma
+__utmb
+__utmc
+__utmz
+__utmv</td>
+<td class="tg-031e">La finalidad de estas cookies es proporcionar estadísticas de uso de la página para comprender su uso y mejorar su funcionamiento.</td>
+<td class="tg-031e"><a href="https://www.google.com/analytics/learn/privacy.html?hl=es">Información de Protección de Datos de Google Analytics</a></td>
+</tr>
+</tbody>
+</table>
+<strong>Desactivación o eliminación de cookies</strong>
+
+En cualquier momento podrá ejercer su derecho de desactivación o eliminación de cookies de este sitio web. Estas acciones se realizan de forma diferente en función del navegador que esté usando. <a href="/aviso-legal/mas-informacion-sobre-las-cookies/">Aquí le dejamos una guía rápida para los navegadores más populares</a>.
+
+<h2>Web Beacons</h2>
+
+Este sitio puede albergar también web beacons (también conocidos por web bugs). Los web beacons suelen ser pequeñas imágenes de un pixel por un pixel, visibles o invisibles colocados dentro del código fuente de las páginas web de un sitio. Los Web beacons sirven y se utilizan de una forma similar a las cookies. Además, los web beacons suelen utilizarse para medir el tráfico de usuarios que visitan una página web y poder sacar un patrón de los usuarios de un sitio.
+
+Dispone de más información sobre los web beacons en: http://es.wikipedia.org/wiki/Web_bug
