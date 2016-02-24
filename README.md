@@ -1,6 +1,6 @@
-# cookiesWP
+# Better Cookie Compliance
 
-Recursos para implantar mejor la llamada "ley de cookies" y WordPress.
+Recursos para implantar mejor la llamada "ley de cookies" y WordPress, en especial relativo a la legislación en España.
 
 Autor: Javi Guembe (@javig)
 
